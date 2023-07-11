@@ -3,7 +3,7 @@ I am passionate about exploring new technologies and honing my skills in databas
 development, unit testing, API documentation, and application innovation. With strong collaboration,
 communication, and teamwork abilities, I am eager to contribute to and learn from your team of developers.
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64a44259ec22530247ecb37d?variant=dark&roadmaps=backend)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64a44259ec22530247ecb37d?variant=light&roadmaps=postgresql-dba%2Cbackend)](https://roadmap.sh)
 
 ## Technology Stack
 
