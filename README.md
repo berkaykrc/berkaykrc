@@ -2,7 +2,7 @@
 I am passionate about exploring new technologies and honing my skills in database
 development, unit testing, API documentation, and application innovation.
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64a44259ec22530247ecb37d?variant=light&roadmaps=postgresql-dba%2Cbackend)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64a44259ec22530247ecb37d?variant=dark&roadmaps=react-native%2Cbackend%2Cpython%2Csoftware-design-architecture)](https://roadmap.sh)
 
 ## Technology Stack
 
